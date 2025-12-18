@@ -1,7 +1,7 @@
 # Purple CLI Theme for VS Code
 
 <div align="center">
-<a align="center" href="https://github.com/kolikrish/"><img align="center" src="https://github.com/"/></a>
+<!-- <a align="center" href="https://github.com/kolikrish/"><img align="center" src="https://github.com/"/></a> -->
 </div>
 
 <br>
