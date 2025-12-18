@@ -1,16 +1,46 @@
-# krish README
+# Purple CLI Theme for VS Code
 
-## Working with Markdown
+<div align="center">
+<a align="center" href="https://github.com/kolikrish/"><img align="center" src="https://github.com/"/></a>
+</div>
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+<br>
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+<table width='100%' align="center">
+    <tr>
+        <td align='left' width='100%' colspan='2'>
+            <strong><code>Purple CLI</code></strong><br />
+            A purple-focused dark theme for VS Code with a clean, modern CLI feel.
+        </td>
+    </tr>
+    <tr><td><sup> Follow Krish Koli's #FOSS work on GitHub <a href='https://github.com/kolikrish/'>@kolikrish</a></sup></td><td  align='center'> <a  target="_blank" href='https://github.com/kolikrish/Purple-CLI'>👋 </a></td></tr>
+</table>
 
-## For more information
+<br>
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
-**Enjoy!**
+
+## Easy Installation
+
+1. Open the extensions sidebar on Visual Studio Code
+2. Search for **Purple CLI**
+3. Click **Install** to install it.
+4. Click **Reload** to reload your editor.
+5. Code/File ＞ Preferences ＞ Color Theme ＞ **Purple CLI**.
+6. 🌟 [Rate five-stars](https://marketplace.visualstudio.com/items?itemName=Krishkoli.krish) to appreciate the effort behind this theme.
+
+<br>
+
+
+
+## Alternate Installation
+
+1. Launch Quick Open in vs code using <kbd>Cmd</kbd>+<kbd>P</kbd> — or — <kbd>Ctrl</kbd>+<kbd>P</kbd>.
+2. Paste the command `ext install krishkoli.purple-cli`
+3. Click **Install** to install it.
+4. Click **Reload** to reload your editor.
+5. Code/File ＞ Preferences ＞ Color Theme ＞ **Purple Pexel**.
+6. 🌟 [Rate five-stars](https://marketplace.visualstudio.com/items?itemName=Krishkoli.krish) to appreciate the effort on this theme.
+
+<br>
+

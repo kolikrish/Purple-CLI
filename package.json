@@ -3,10 +3,39 @@
   "displayName": "Purple-CLI",
   "description": "A purple-focused dark theme for VS Code with a clean, modern CLI feel.",
   "publisher": "krishkoli",
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/kolikrish/Purple-CLI"
+  },
   "version": "0.0.1",
+    "keywords": [
+    "theme",
+    "dark",
+    "purple",
+    "CLI",
+    "krishkoli",
+    "vscode",
+    "vscode-theme",
+    "purple-CLI",
+    "purple-CLI-theme",
+    "purple-CLI-vscode-theme",
+    "purple-CLI-vscode",
+    "purple cli theme",
+    "purple cli",
+    "purple-cli",
+    "purple",
+    "krish koli",
+    "koli krish",
+    "kolikrish",
+    "purple cli",
+    "pixel theme",
+    "pixel",
+    "krish"
+  ],
   "engines": {
     "vscode": "^1.107.0"
   },
+  "icon": "icon.png",
   "categories": [
     "Themes"
   ],
